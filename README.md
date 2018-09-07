@@ -3,7 +3,7 @@
 
 Our main company website http://www.xiongdi.cn/ and English version http://www.xiongdi.cn/en/ has been unavailable outside of China becuase of our hosting provider bigger issue.
 
-Take our appologies and contact directly
+Take our appologies and contact directly for any issues. Email service is unaffected.
 
 </div>
 		<div class="clr"></div>
@@ -22,4 +22,4 @@ Take our appologies and contact directly
 						
 </div>
 
-Email service is unaffected.
+
