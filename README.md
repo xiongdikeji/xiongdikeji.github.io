@@ -1,7 +1,7 @@
 # Emperor Technology
 雄帝科技
 
-Our main company website http://www.xiongdi.cn/ and English version http://www.xiongdi.cn/en/ has been unavailable outside of China becuase of our hosting provider bigger issue.
+Our main company website <http://www.xiongdi.cn/> and English version <http://www.xiongdi.cn/en/> has been unavailable outside of China because of our hosting provider bigger issue.
 
 Take our appologies and contact directly for any issues. Email service is unaffected.
 
